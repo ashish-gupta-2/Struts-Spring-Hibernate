@@ -1,0 +1,49 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+**/nbactions.xml
+
+### VS Code ###
+.vscode/
+
+### NPM modules ###
+/refresh-detail-ui/node_modules/
+/refresh-detail-ui/yarn.lock
+/refresh-detail-ui/release/
+/refresh-detail-ui/jet_components
+/refresh-detail-ui/node_modules
+/refresh-detail-ui/bower_components
+/refresh-detail-ui/dist
+/refresh-detail-ui/web
+/refresh-detail-ui/staged-themes
+/refresh-detail-ui/themes
+/refresh-detail-ui/jaftmp@
+
+/refresh-detail-ui/hybrid/node_modules
+/refresh-detail-ui/hybrid/platforms
+/refresh-detail-ui/hybrid/www/*
