@@ -1,1 +1,2 @@
 # Struts-Spring-Hibernate
+Test
