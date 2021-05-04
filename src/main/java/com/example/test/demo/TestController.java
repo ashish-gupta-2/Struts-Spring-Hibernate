@@ -18,7 +18,7 @@ public class TestController {
 
     @RequestMapping("/spring")
     public String index() {
-        return "Greetings from Spring Boot! ManagersViewApplication";
+        return "Greetings from Spring Boot!";
     }
 
     @RequestMapping("/testdb")
